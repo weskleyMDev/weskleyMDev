@@ -20,6 +20,6 @@
 
 <div>
   <a href="https://github.com/weskleyMDev">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?weskleyMDev=anuraghazra&show_icons=true&theme=dracula" />
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?weskleyMDev=anuraghazra&show_icons=true&theme=transparent" />
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?weskleymdev=anuraghazra&show_icons=true&theme=dracula" />
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?weskleymdev=anuraghazra&show_icons=true&theme=transparent" />
 </div>
