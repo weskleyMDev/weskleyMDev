@@ -24,3 +24,11 @@
     <img height="165px" src="https://github-readme-stats.vercel.app/api?username=weskleyMDev&show_icons=true&theme=dark" />
   </a>
 </div>
+
+### Contacts
+
+<div>
+  <a href="https://www.linkedin.com/in/weskley-moreira-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
