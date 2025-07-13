@@ -21,5 +21,5 @@
 <div>
   <a href="https://github.com/weskleyMDev">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=weskleyMDev&show_icons=true&theme=dracula" />
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=weskleyMDev&show_icons=true&theme=transparent" />
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weskleyMDev)](https://github.com/anuraghazra/github-readme-stats" />
 </div>
