@@ -34,7 +34,7 @@
   <a href="https://wa.me/5588981367236">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="mailto:weskleymdev@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=contato@exemplo.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
