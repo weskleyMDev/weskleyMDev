@@ -20,6 +20,6 @@
 
 <div>
   <a href="https://github.com/weskleyMDev">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weskleyMDev&layout=compact&theme=dark" />
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=weskleyMDev&show_icons=true&theme=dark" />
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weskleyMDev&layout=compact&theme=dark" />
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=weskleyMDev&show_icons=true&theme=dark" />
 </div>
