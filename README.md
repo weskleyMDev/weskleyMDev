@@ -4,7 +4,7 @@
 - 💬 Ask me about Flutter & Dart
 - 📫 How to reach me: weskleymdev@gmail.com
 
-### Technologies used
+### Technologies
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="60" />
