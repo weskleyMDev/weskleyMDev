@@ -25,7 +25,7 @@
   </a>
 </div>
 
-### Social
+### Social & Contact
 
 <div>
   <a href="https://www.linkedin.com/in/weskley-moreira-dev">
