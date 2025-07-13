@@ -16,7 +16,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="60" />
 </div>
 
-### My stats
+### Stats
 
 <div>
   <a href="https://github.com/weskleyMDev">
