@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on freelancer | advanced in mobile systems development in flutter
+- 🎓 Bachelor's Degree in Information Systems | Universidade Federal do Ceará | 2024
 - 💬 Ask me about Flutter & Dart
 - 📫 How to reach me: weskleymdev@gmail.com
 
